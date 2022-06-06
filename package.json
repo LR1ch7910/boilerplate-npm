@@ -1,5 +1,6 @@
 {
 	"name": "Larry Richardson",
+	"author": "foobar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
